@@ -1,6 +1,6 @@
 #!/bin/bash 
 COUNTER=0
-# new string 
+# new_string
 while [ $COUNTER -lt 10 ] 
 do 
    echo The counter is $COUNTER 
